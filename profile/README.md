@@ -42,7 +42,7 @@ Live translated browser video meetings for cross-language teams, traders, and in
 ## Partner Program & Independent Profiles · الشركاء والملفات الموثّقة
 - Partner Program: **[byengage.com/partners](https://byengage.com/partners)** · Assets: [byengage/AffiliateProgram](https://github.com/byengage/AffiliateProgram)
 - Verified SaaSHub Listings: [Engage Decks](https://www.saashub.com/engage-decks-alternatives) · [Engage Posts](https://www.saashub.com/engage-posts-alternatives) · [Engage Chats](https://www.saashub.com/engage-chats-alternatives) · [Engage Calls](https://www.saashub.com/engage-calls-alternatives)
-- G2: [Engage Posts Reviews](https://www.g2.com/products/engage-posts/reviews) · Crunchbase: [Engage](https://www.crunchbase.com/organization/engage-9b73)
-- Blog: [byengage.com/blog](https://byengage.com/blog) · [English Blog](https://byengage.com/en/blog) · Medium: [@byengage](https://medium.com/@byengage) · Substack: [@byengage](https://substack.com/@byengage) · Dev.to: [@byengage](https://dev.to/byengage)
+- G2: [Engage Seller Profile](https://www.g2.com/sellers/engage-2026-11-15) · [Engage Posts Reviews](https://www.g2.com/products/engage-posts/reviews) · Crunchbase: [Engage](https://www.crunchbase.com/organization/engage-9b73)
+- Blog: [byengage.com/blog](https://byengage.com/blog) · [English Blog](https://byengage.com/en/blog) · Medium: [@byengage](https://medium.com/@byengage) · Substack: [byengage.substack.com](https://byengage.substack.com/) · Dev.to: [@byengage](https://dev.to/byengage)
 - Social: X [@byengage](https://x.com/byengage) · LinkedIn [Engage](https://linkedin.com/company/byengage) · YouTube [@byengage](https://www.youtube.com/@byengage) · TikTok [@byengage](https://www.tiktok.com/@byengage) · Instagram [@byengag](https://www.instagram.com/byengag/) · Threads [@byengag](https://www.threads.com/@byengag)
 - Contact: `info@byengage.com`
